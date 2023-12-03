@@ -162,3 +162,5 @@ cython_debug/
 *.pt
 *.txt
 *.bin
+*.parquet
+*.csv
